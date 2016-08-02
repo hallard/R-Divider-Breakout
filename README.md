@@ -10,6 +10,8 @@ This board indroduce
 This board can fit on Adafruit [ADS1115][5] or [ADS1015][6] 
 <img src="https://raw.githubusercontent.com/hallard/R-Divider-Breakout/master/pictures/ads1115.png" alt="ADS1115">
 
+**In this case take care to just connect A0..A3 and GND to Adafruit board when stacking** other Adafruit board pins are used for input on my breakout.
+
 **Waiting Boards from PCBs.io and OSHPark, I did not fully tested them yet, I will update ASAP. Use at your own risks**
 
 Detailed Description
