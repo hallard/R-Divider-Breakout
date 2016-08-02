@@ -21,9 +21,9 @@ Look at the schematics for more informations.
 ![schematic](https://raw.githubusercontent.com/hallard/R-Divider-Breakout/master/pictures/R-Divider-Breakout-sch.png)  
 
 ### Boards 
-<img src="https://raw.githubusercontent.com/hallard/R-Divider-Breakout/master/pictures/R-Divider-Breakout.png" alt="Top">
+<img src="https://raw.githubusercontent.com/hallard/R-Divider-Breakout/master/pictures/R-Divider-Breakout-top.png" alt="Top">
 
-<img src="https://raw.githubusercontent.com/hallard/R-Divider-Breakout/master/pictures/R-Divider-Breakout.png" alt="Bottom"> 
+<img src="https://raw.githubusercontent.com/hallard/R-Divider-Breakout/master/pictures/R-Divider-Breakout-bot.png" alt="Bottom"> 
 
 You can order the PCB of this board at [OSHPARK][4] or at [PCBs.io][3].
 PCBs.io give me some reward when you order my designed boards from their site. This is pretty cool because I can use these rewards to create and design new boards and order boards for a discounted price, so if you don't care about PCB manufacturer please use PCBs.io.
