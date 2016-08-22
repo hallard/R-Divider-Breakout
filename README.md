@@ -27,12 +27,26 @@ Look at the schematics for more informations.
 
 <img src="https://raw.githubusercontent.com/hallard/R-Divider-Breakout/master/pictures/R-Divider-Breakout-bot.png" alt="Bottom"> 
 
+### Received boards
+
+<img src="https://raw.githubusercontent.com/hallard/R-Divider-Breakout/master/pictures/R-Divider-Breakout-pcb.jpg" alt="PCB"> 
+
+
 You can order the PCB of this board at [OSHPARK][4] or at [PCBs.io][3].
 PCBs.io give me some reward when you order my designed boards from their site. This is pretty cool because I can use these rewards to create and design new boards and order boards for a discounted price, so if you don't care about PCB manufacturer please use PCBs.io.
 
 ### Assembled boards
 
-I'm waiting for boards
+Here is a picture of assembled board stacked with an ADS1115 ADC breakout
+
+<img src="https://raw.githubusercontent.com/hallard/R-Divider-Breakout/master/pictures/R-Divider-Breakout-mounted.jpg" alt="Mounted boards"> 
+
+Take care when stacking, analog Input of breakout should not be connected to ADS1115 dedicated I2C and ADC control line, you'll need to use on long pin connector as follow
+
+<img src="https://raw.githubusercontent.com/hallard/R-Divider-Breakout/master/pictures/R-Divider-Breakout-stacked.jpg" alt="Mounted and stacked with ADS1115 board"> 
+
+<img src="https://raw.githubusercontent.com/hallard/R-Divider-Breakout/master/pictures/R-Divider-Breakout-connector.jpg" alt="Long pin connector"> 
+
 
 ##License
 
